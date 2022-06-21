@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Info Type="StartUp" Visible="0" Icon="" File="helico_main.m" Name="helico_main">
+    <Extension Value="2b9c13d3-ada0-43b6-ba27-71291196edd8" Name="StartUpPrev"/>
+</Info>
